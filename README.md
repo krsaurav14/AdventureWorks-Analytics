@@ -1,1 +1,1 @@
-$ AdventureWorks Analytics
+# AdventureWorks Analytics
